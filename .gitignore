@@ -1,5 +1,9 @@
 # Ignore environment variables
 pyvenv
 
+
 # Ignore virtual environment
 venv
+
+__pycache__/
+*.pycgit 
